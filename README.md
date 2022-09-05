@@ -3,6 +3,8 @@
 - 🌱 
 - 💞️ 
 - 📫
+<b>Github Stats</b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jem256=anuraghazra&show_icons=true&theme=chartreuse-dark)
 ![](https://komarev.com/ghpvc/?username=Jem256&color=green)
 
 <!---
