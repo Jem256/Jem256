@@ -2,7 +2,8 @@
 - 👀
 - 🌱 
 - 💞️ 
-- 📫 How to reach me jemynagasha@gmail.com
+- 📫
+![](https://komarev.com/ghpvc/?username=Jem256&color=green)
 
 <!---
 Jem256/Jem256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
