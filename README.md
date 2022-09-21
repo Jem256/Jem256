@@ -7,6 +7,11 @@
   <h3>I love learning new things, I am currently in love with Javascript and design </h3>
 </div>
 
+### :woman_technologist: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jem256&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+![](https://komarev.com/ghpvc/?username=Jem256&color=green)
+
 <!---
 Here's what I do <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
@@ -33,10 +38,6 @@ I am a Javascript Developer from Uganda.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <b><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/></b>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jem256&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-![](https://komarev.com/ghpvc/?username=Jem256&color=green)
 --->
 
 <!---
