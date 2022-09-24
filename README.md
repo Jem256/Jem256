@@ -9,3 +9,6 @@
 <a href="https://hashnode.com/@nagasha"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </p>
 <br />
+
+<p>I am an enthusiastic Frontend Developer with 1 year of practical experince in Accesible Web App Development, React, Javascript/ES6, HTML/CSS, Tailwind. I have a passion for Design Systems, Web Accessibility, and Serverless technologies such as Firebase in Agile, Scrum and Kanban settings.</p>
+<br />
