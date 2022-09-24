@@ -34,3 +34,29 @@
 </p>
 
 <br />
+
+<h2 align="center">About me 😇</h2>
+
+<br />
+<p>In my latest project, I created <a href="https://github.com/Jem256/ecooptions">Eco Options</a> an ecommerce web application that helps menstruators in Uganda have easy access to sustainable menstrual products such as menstrual cups and more. I created this project to give this <a href="https://ecooptionsug.com/">Social Enterprise</a> an online presence and ease customers' shopping experience. </p>
+  
+<br />
+<p>:muscle: I am currently ... working on implementing firebase CRUD commands to my current freelance frontend project.</p>
+<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>🙋: I’m looking for help with ... Typescript.</p>
+<p>:speech_balloon: Ask me anything related to... Javascript, Uganda or my inspiration for my projects </p>
+<p>:ghost: Fun fact: ... I studied civil engineering but I wanted to become a developer, so I taught myself coding after university.</p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jem256&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jem256&layout=compact&theme=radical" width="400" />
+</p>
+
+<br />
+<p align="center">
+I love connecting with different people, so say hi! 😊
+</p>
+
+<br />
