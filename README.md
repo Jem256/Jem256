@@ -54,10 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jem256&layout=compact&theme=radical" width="400" />
 </p>
 
-<br/>
-
-[![@nagasha's Holopin board](https://holopin.io/api/user/board?user=nagasha)](https://holopin.io/@nagasha)
-
 <br />
 <p align="center">
 I love connecting with different people, so say hi! 😊
