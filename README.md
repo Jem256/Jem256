@@ -11,7 +11,7 @@
 </p>
 <br />
 
-<p>I am a Frontend Developer with experince in Accesible Web App Development, React, Javascript/ES6, HTML/CSS, Tailwind. I have a passion for Design Systems, Web Accessibility, and Serverless technologies such as Firebase in Agile, Scrum and Kanban settings.</p>
+<p>I am a Frontend Developer with experince in Accesible Web App Development, React, Typescript, Javascript/ES6, HTML/CSS, Tailwind. I have a passion for Design Systems, Web Accessibility, and Serverless technologies such as Firebase in Agile, Scrum and Kanban settings.</p>
 <br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>
@@ -20,6 +20,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-typescript-black?&style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -33,21 +34,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
-
-<br />
-
-<h2 align="center">About me 😇</h2>
-
-<br />
-<p>In my latest project, I created <a href="https://github.com/Jem256/ecooptions">Eco Options</a> an ecommerce web application that helps menstruators in Uganda have easy access to sustainable menstrual products such as menstrual cups and more. I created this project to give this <a href="https://ecooptionsug.com/">Social Enterprise</a> an online presence and ease customers' shopping experience. </p>
-  
-<br />
-<p>:muscle: I am currently ... working on implementing firebase CRUD commands to my current freelance frontend project.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>🙋: I’m looking for help with ... Typescript.</p>
-<p>:speech_balloon: Ask me anything related to... Javascript, Uganda or my inspiration for my projects </p>
-<p>:ghost: Fun fact: ... I studied civil engineering but I wanted to become a developer, so I taught myself coding after university.</p>
 
 <br />
 <p align="center">
