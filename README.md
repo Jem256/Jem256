@@ -37,7 +37,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jem256&theme=radical&show_icons=true" width="410"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Jem256&theme=radical&show_icons=true" width="410"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jem256&layout=compact&theme=radical" width="400" />
 </p>
 
