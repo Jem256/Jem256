@@ -2,16 +2,17 @@
   <h1 align="center"><b>Hi there, I'm Jemimah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </p>
 <p align="center">
-<a href="https://nagasha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<!-- <a href="https://nagasha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/jemimah-nagasha/"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <!-- <a href="https://twitter.com/nagasha_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp; -->
-<a href="https://dev.to/nagasha"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+<!-- <a href="https://dev.to/nagasha"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp; -->
+  <a href="https://medium.com/@nagasha"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium.com&logoColor=white" alt="Medium" /></a>&nbsp;
 <!-- 
 <a href="https://hashnode.com/@nagasha"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
 </p>
 <br />
 
-<p>I am a Frontend Developer with experince in Accesible Web App Development, React, Typescript, Javascript/ES6, HTML/CSS, Tailwind. I have a passion for Design Systems, Web Accessibility, and Serverless technologies such as Firebase in Agile, Scrum and Kanban settings.</p>
+<!-- <p>I am a Frontend Developer with experince in Accesible Web App Development, React, Typescript, Javascript/ES6, HTML/CSS, Tailwind. I have a passion for Design Systems, Web Accessibility, and Serverless technologies such as Firebase in Agile, Scrum and Kanban settings.</p> 
 <br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>
@@ -33,17 +34,17 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-</p>
+</p> 
 
-<br />
+<br /> -->
 <p align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Jem256&theme=radical&show_icons=true" width="410"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jem256&layout=compact&theme=radical" width="400" />
 </p>
-
+<!--
 <br />
 <p align="center">
 I love connecting with different people, so say hi! 😊
-</p>
+</p>  -->
 
 <br />
